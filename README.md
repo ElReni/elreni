@@ -1,7 +1,7 @@
 
-<p align="center"><img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Coding gif"></p>
+<p align="center"><img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Coding gif"/></p>
 
-<h2 align="center"> System.out.println<span style="font-size: 40px; color: rgb(61, 109, 240);" >("Hello World!")</span>; 👋 </h2>
+<h2 align="center"> System.out.println<span style="font-size: 40px; color: rgb(61, 109, 240);"> ("Hello World!")</span>; 👋 </h2>
 
 <h3>📂 About me </h3>
 
@@ -26,7 +26,7 @@ a course on the Spring Framework and working on it now.
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin:0px 10px" /> </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40" style="margin:0px 10px" /> </p>
     
-<p align="center"><img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Coding gif"></p>            
+<p align="center"><img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" alt="Coding gif"/></p>            
           
           
           
