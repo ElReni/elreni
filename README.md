@@ -10,7 +10,7 @@ Hello everyone! My name is Anton and I am a beginner back-end programmer.
 In 2023 I received my programming diploma from BSUIR in my home country.
 During my studies, I gained a lot of skills and knowledge, I was taught Pascal, Assembler, C\C++, C#, PHP, Java,
 HTML+CSS and a lot more. I developed even my own simple driver for Windows XP!
-From the very beginning it was really hard, though a lot of fun. Despite the wide rande of languages and technologies, 
+From the very beginning it was really hard, though a lot of fun. Despite the wide range of languages and technologies, 
 from the first glance I fell in love with Java so here I am 😄 Recently I completed 
 a course on the Spring Framework and working on it now. 
 </p>
